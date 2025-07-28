@@ -35,6 +35,7 @@ import net.neoforged.neoforge.registries.DeferredRegister;
 public class TooManyGems {
     public static final String MODID = "toomanygems";
     public static final Logger LOGGER = LogUtils.getLogger();
+
     public TooManyGems(IEventBus modEventBus, ModContainer modContainer) {
         modEventBus.addListener(this::commonSetup);
 
