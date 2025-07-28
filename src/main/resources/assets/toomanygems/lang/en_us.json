@@ -1,0 +1,13 @@
+{
+  "itemGroup.toomanygems": "Example Mod Tab",
+  "block.toomanygems.example_block": "Example Block",
+  "item.toomanygems.example_item": "Example Item",
+
+  "toomanygems.configuration.title": "Too Many Gems Configs",
+  "toomanygems.configuration.section.toomanygems.common.toml": "Too Many Gems Configs",
+  "toomanygems.configuration.section.toomanygems.common.toml.title": "Too Many Gems Configs",
+  "toomanygems.configuration.items": "Item List",
+  "toomanygems.configuration.logDirtBlock": "Log Dirt Block",
+  "toomanygems.configuration.magicNumberIntroduction": "Magic Number Text",
+  "toomanygems.configuration.magicNumber": "Magic Number"
+}
